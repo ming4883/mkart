@@ -1,0 +1,12 @@
+[submodule "server/3rdparty/asio"]
+	path = server/3rdparty/asio
+	url = https://github.com/chriskohlhoff/asio.git
+[submodule "server/3rdparty/pigpio"]
+	path = server/3rdparty/pigpio
+	url = https://github.com/joan2937/pigpio.git
+[submodule "server/3rdparty/dukglue"]
+	path = server/3rdparty/dukglue
+	url = https://github.com/ming4883/dukglue.git
+[submodule "server/3rdparty/loguru"]
+	path = server/3rdparty/loguru
+	url = https://github.com/emilk/loguru.git

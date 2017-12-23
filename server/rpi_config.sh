@@ -1,0 +1,4 @@
+#!/bin/bash
+
+RPI_USERNAME="mkart"
+RPI_HOSTNAME="192.168.11.87"
