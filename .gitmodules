@@ -10,3 +10,9 @@
 [submodule "server/3rdparty/loguru"]
 	path = server/3rdparty/loguru
 	url = https://github.com/emilk/loguru.git
+[submodule "client-qt/3rdparty/glm"]
+	path = client-qt/3rdparty/glm
+	url = https://github.com/g-truc/glm.git
+[submodule "client-qt/3rdparty/imgui"]
+	path = client-qt/3rdparty/imgui
+	url = https://github.com/ocornut/imgui.git
